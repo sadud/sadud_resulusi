@@ -1,5 +1,7 @@
 Rencana kegiatan ke depan sadud
 1. belajar github
 2. belajar git
+test2
 3. belajar github dan git
 4. belajar membuat project dengan github dan git
+test
